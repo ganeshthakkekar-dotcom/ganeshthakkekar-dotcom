@@ -16,4 +16,4 @@ First-year Computer Science student at SPPU, Pune. Before college I worked in ma
 Build real projects, learn from people further along, and keep everything here honest about what's finished and what's not.
 
  📫 Connect
-[LinkedIn](https://www.linkedin.com/in/ganesh-thakkekar-6aaa3b434)
+[LinkedIn]:-  https://www.linkedin.com/in/ganesh-thakkekar-6aaa3b434
