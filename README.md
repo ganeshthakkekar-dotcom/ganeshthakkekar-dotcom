@@ -9,7 +9,7 @@ First-year Computer Science student at SPPU, Pune. Before college I worked in ma
 - Java, through my college OOP course
 
  📂 What's here
-- [iicp-concept](): an idea-stage concept for coordinating city infrastructure work. Pitched at the Hult Prize (Feb 2026). Concept and design only, no code.
+- [IICP concept] : an idea-stage concept for coordinating city infrastructure work. Pitched at the Hult Prize (Feb 2026). Concept and design only, no code.
 - "python-practice(coming soon)": small exercises as I learn
 
   Goal
